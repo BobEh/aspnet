@@ -6,7 +6,8 @@
 "MSRP": "1480.00",
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
-"DESCRIPTION": "The newest tablet from apple"
+"DESCRIPTION": "The newest tablet from apple",
+"BRAND": "Apple"
 },
 {
 "PRODUCTNAME": "iPad mini",
@@ -15,7 +16,8 @@
 "MSRP": "1480.00",
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
-"DESCRIPTION": "The newest small version tablet from apple"
+"DESCRIPTION": "The newest small version tablet from apple",
+"BRAND": "Apple"
 },
 {
 "PRODUCTNAME": "Galaxy Tab E",
@@ -24,7 +26,8 @@
 "MSRP": "1480.00",
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
-"DESCRIPTION": "The newest tablet from Samsung"
+"DESCRIPTION": "The newest tablet from Samsung",
+"BRAND": "Samsung"
 },
 {
 "PRODUCTNAME": "Mediapad M5",
@@ -33,7 +36,8 @@
 "MSRP": "1480.00",
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
-"DESCRIPTION": "The newest tablet from Huawei"
+"DESCRIPTION": "The newest tablet from Huawei",
+"BRAND": "HuaWei"
 },
 {
 "PRODUCTNAME": "Mediapad T3",
@@ -42,6 +46,7 @@
 "MSRP": "1480.00",
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
-"DESCRIPTION": "The newest small version tablet from apple"
+"DESCRIPTION": "The newest small version tablet from apple",
+"BRAND": "HuaWei"
 }
 ]

@@ -8,7 +8,10 @@
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
 "DESCRIPTION": "The newest tablet from apple",
-"BRAND": "Apple"
+"BRAND": {
+  "ID": "AAA1",
+  "NAME": "Apple"
+}
 },
 {
 "ID": "111B",
@@ -19,7 +22,10 @@
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
 "DESCRIPTION": "The newest small version tablet from apple",
-"BRAND": "Apple"
+"BRAND": {
+  "ID": "AAA1",
+  "NAME": "Apple"
+}
 },
 {
 "ID": "111C",
@@ -30,7 +36,10 @@
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
 "DESCRIPTION": "The newest tablet from Samsung",
-"BRAND": "Samsung"
+"BRAND": {
+  "ID": "AAA2",
+  "NAME": "Apple"
+}
 },
 {
 "ID": "111D",
@@ -41,7 +50,10 @@
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
 "DESCRIPTION": "The newest tablet from Huawei",
-"BRAND": "HuaWei"
+"BRAND": {
+  "ID": "AAA3",
+  "NAME": "Apple"
+}
 },
 {
 "ID": "111E",
@@ -52,6 +64,9 @@
 "QTYONHAND": "51",
 "QTYONBACKORDER": "4",
 "DESCRIPTION": "The newest small version tablet from apple",
-"BRAND": "HuaWei"
+"BRAND": {
+  "ID": "AAA3",
+  "NAME": "Apple"
+}
 }
 ]

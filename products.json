@@ -1,5 +1,6 @@
 [
 {
+"ID": "111A"
 "PRODUCTNAME": "iPad",
 "GRAPHICNAME": "iPad",
 "COSTPRICE": "1125.00",
@@ -10,6 +11,7 @@
 "BRAND": "Apple"
 },
 {
+"ID": "111B"
 "PRODUCTNAME": "iPad mini",
 "GRAPHICNAME": "iPad mini",
 "COSTPRICE": "1025.00",
@@ -20,6 +22,7 @@
 "BRAND": "Apple"
 },
 {
+"ID": "111C"
 "PRODUCTNAME": "Galaxy Tab E",
 "GRAPHICNAME": "Galaxy Tab E",
 "COSTPRICE": "1125.00",
@@ -30,6 +33,7 @@
 "BRAND": "Samsung"
 },
 {
+"ID": "111D"
 "PRODUCTNAME": "Mediapad M5",
 "GRAPHICNAME": "Mediapad M5",
 "COSTPRICE": "1125.00",
@@ -40,6 +44,7 @@
 "BRAND": "HuaWei"
 },
 {
+"ID": "111E"
 "PRODUCTNAME": "Mediapad T3",
 "GRAPHICNAME": "Mediapad T3",
 "COSTPRICE": "1125.00",

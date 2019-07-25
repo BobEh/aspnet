@@ -2,7 +2,7 @@
 {
 "ID": "111A",
 "PRODUCTNAME": "iPad",
-"GRAPHICNAME": "iPad",
+"GRAPHICNAME": "iPad.png",
 "COSTPRICE": "1125.00",
 "MSRP": "1480.00",
 "QTYONHAND": "51",
@@ -13,7 +13,7 @@
 {
 "ID": "111B",
 "PRODUCTNAME": "iPad mini",
-"GRAPHICNAME": "iPad mini",
+"GRAPHICNAME": "iPadMini.jpg",
 "COSTPRICE": "1025.00",
 "MSRP": "1480.00",
 "QTYONHAND": "51",
@@ -24,7 +24,7 @@
 {
 "ID": "111C",
 "PRODUCTNAME": "Galaxy Tab E",
-"GRAPHICNAME": "Galaxy Tab E",
+"GRAPHICNAME": "Samsung.jpg",
 "COSTPRICE": "1125.00",
 "MSRP": "1480.00",
 "QTYONHAND": "51",
@@ -35,7 +35,7 @@
 {
 "ID": "111D",
 "PRODUCTNAME": "Mediapad M5",
-"GRAPHICNAME": "Mediapad M5",
+"GRAPHICNAME": "Huawei.jpg",
 "COSTPRICE": "1125.00",
 "MSRP": "1480.00",
 "QTYONHAND": "51",
@@ -46,7 +46,7 @@
 {
 "ID": "111E",
 "PRODUCTNAME": "Mediapad T3",
-"GRAPHICNAME": "Mediapad T3",
+"GRAPHICNAME": "HuaweiMini.jpg",
 "COSTPRICE": "1125.00",
 "MSRP": "1480.00",
 "QTYONHAND": "51",
